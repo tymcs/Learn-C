@@ -6,7 +6,7 @@ int main()
     {
         printf("%d\n",i);
 
-        continue;
+        continue; //Skip something
         if(i == 5)
 
         if( i >= 15)
