@@ -1,0 +1,3 @@
+500
+Address of x _ main = 00007ff700e98010
+500Address of x = 00007ff700e98010

@@ -1,0 +1,12 @@
+Enter the number of vertices :
+ Enter adjacency matrix: 
+
+
+Edge1 : (0,2) cost:4
+ Minimum cost = 4
+Edge2 : (2,3) cost:1
+ Minimum cost = 5
+Edge3 : (2,1) cost:2
+ Minimum cost = 7
+Edge4 : (1,4) cost:3
+ Minimum cost = 10

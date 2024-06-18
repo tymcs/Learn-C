@@ -1,0 +1,1 @@
+{"name":"Local: Palindrome","url":"d:\\SELF STUDY\\DAY-19\\Palindrome.c","tests":[{"id":1701324611706,"input":"abccba","output":"YES"},{"id":1701324642351,"input":"madam","output":"YES"},{"id":1701324654227,"input":"tamanna","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SELF STUDY\\DAY-19\\Palindrome.c","group":"local","local":true}
